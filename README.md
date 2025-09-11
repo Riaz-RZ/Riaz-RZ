@@ -6,7 +6,7 @@
 ## 💡 About Me  
 
 - 🔹 **Ex-Accountant turned Software Developer**  
-- 🔹 Learning **Android Apps (Kotlin)** & **MERN Web Apps**  
+- 🔹 Learning **MERN Full Stack Development** & **Android App Development (Kotlin)**    
 - 🔹 Exploring **Cloud & Deployment** 🚀  
 - 🔹 Love solving problems with **clean and scalable code**  
 
