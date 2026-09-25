@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1f2937&height=220&section=header&text=MD%20Riazul%20Islam&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20React%20%7C%20TypeScript%20%7C%20MERN&descAlignY=55&descSize=16" width="100%" />
+<p align="center">
+  <img
+    src="./assets/profile-banner.jpg"
+    alt="MD Riazul Islam - Full Stack Web Developer"
+    width="100%"
+  />
+</p>
 
 </div>
 
