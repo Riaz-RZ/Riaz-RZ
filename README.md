@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <b>Ex-Accountant → Web Developer</b>
+  <b>Full Stack Web Developer | Next.js | React | TypeScript</b>
 </p>
 
 <p align="center">
@@ -39,14 +39,13 @@ Currently, I'm focused on building modern web applications using **Next.js, Reac
 I believe the best way to learn programming is by **building real projects, solving problems, and continuously improving**.
 
 ```text
-🎯 Current Focus
-────────────────────────────────────
-Frontend       → Next.js + React + TypeScript
-Styling        → Tailwind CSS
-Backend        → Node.js + Express
-Database       → MongoDB
-Mobile         → Kotlin + Android
-Tools          → Git + GitHub + VS Code
+### 🚀 Currently
+
+- 🔭 Building projects with Next.js and React
+- 🌱 Exploring Next.js and advanced TypeScript
+- 💻 Strengthening my MERN full-stack development skills
+- 🎨 Building responsive interfaces with Tailwind CSS and DaisyUI
+- 📚 Learning through real-world projects and practical development
 ```
 
 ---
@@ -76,6 +75,29 @@ Tools          → Git + GitHub + VS Code
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+---
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+<a href="https://github.com/Riaz-RZ">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+</p>
+
+---
 
 ---
 
