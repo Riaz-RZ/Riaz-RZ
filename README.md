@@ -81,15 +81,17 @@ I believe the best way to learn programming is by **building real projects, solv
 ---
 # 🌐 Connect With Me
 
-<p align="center" gap="10px">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/riaz-acc89">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:riazacc89@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Riaz-RZ">
 <img src="https://skillicons.dev/icons?i=github" width="45" />
@@ -108,27 +110,30 @@ I believe the best way to learn programming is by **building real projects, solv
 
 <td width="50%">
 
-### 📦 Warehouse Inventory Management
+### 🏋️ PH-A6-FitLog
 
-A full-stack warehouse inventory management application designed to manage products and stock operations.
+A modern workout planning application that helps users explore workouts, build today's plan, and save workouts for later.
 
 **Key Features**
 
-* 🔐 Admin & Staff roles
-* 📦 Product management
-* 📥 Stock In
-* 📤 Stock Out
-* 🔄 Product Transfer
-* 📊 Inventory dashboard
-* 🗄️ MongoDB database
+* 🏋️ Workout library
+* 📋 Build today's workout plan
+* 🔖 Save workouts for later
+* ⭐ Workout ratings
+* 📊 Workout information and statistics
+* 📱 Responsive interface
 
 **Built With**
 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI` `React Icons`
 
 <br/>
 
-<a href="https://github.com/Riaz-RZ/Warehouse-Inventory-Management">
+<a href="https://ph-a6-fit-log-five.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Riaz-RZ/PH-A6-Fitlog">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
