@@ -130,7 +130,7 @@ A modern workout planning application that helps users explore workouts, build t
 <br/>
 
 <a href="https://ph-a6-fit-log-five.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Riaz-RZ/PH-A6-Fitlog">
@@ -162,6 +162,10 @@ A modern technology discovery platform where developers can explore technologies
 
 <a href="https://ph-devstack.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Riaz-RZ/PH-Assignments-5-DevStack">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
