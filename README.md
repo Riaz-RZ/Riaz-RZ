@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <b>Ex-Accountant → Software Developer</b>
+  <b>Ex-Accountant → Web Developer</b>
 </p>
 
 <p align="center">
@@ -141,11 +141,4 @@ A modern technology discovery platform where developers can explore technologies
 
 </tr>
 
-<tr>
-
-<td width="50%">
-
-### 👗 Fashion House
-
-A modern fashion-focused frontend project built to practice responsive UI de
 
