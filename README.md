@@ -81,13 +81,13 @@ I believe the best way to learn programming is by **building real projects, solv
 ---
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="center" gap="10px">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/riaz-acc89">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:riazacc89@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 </a>
 
