@@ -116,30 +116,30 @@ I believe the best way to learn programming is by **building real projects, solv
 
 <td width="50%">
 
-### 🏋️ PH-A6-FitLog
+### 🛒 Bazar Dor
 
-A modern workout planning application that helps users explore workouts, build today's plan, and save workouts for later.
+A Bengali market-price tracking application that helps users explore the prices of everyday essentials in Bangladesh and monitor price changes.
 
 **Key Features**
 
-* 🏋️ Workout library
-* 📋 Build today's workout plan
-* 🔖 Save workouts for later
-* ⭐ Workout ratings
-* 📊 Workout information and statistics
+* 🇧🇩 Bengali-language market-price display
+* 🛍️ Browse everyday essential products
+* 🗂️ Category-based product browsing
+* 📈 Track price increases and decreases
+* 📊 Compare current prices with previous prices
 * 📱 Responsive interface
 
 **Built With**
 
-`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI` `React Icons`
+`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI`
 
 <br/>
 
-<a href="https://ph-a6-fit-log-five.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<a href="https://bazar-dor-two-tau.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Riaz-RZ/PH-A6-Fitlog">
+<a href="https://github.com/Riaz-RZ/Bazar-Dor">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
