@@ -116,6 +116,42 @@ I believe the best way to learn programming is by **building real projects, solv
 
 <td width="50%">
 
+### 📚 BookNook
+
+A full-stack online library management system that allows users to explore books, borrow and return books, and manage their book collections.
+
+**Key Features**
+
+* 📖 Browse and explore available books
+* 🔍 View detailed book information
+* ➕ Add new books to the library
+* 📚 Borrow and return books
+* 📊 Automatic book availability management
+* 🔐 User authentication and session management
+* 📱 Responsive interface
+
+**Built With**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn UI` `Node.js` `Express.js` `MongoDB`
+
+<br/>
+
+<a href="https://library-booknook.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Riaz-RZ/booknook">
+<img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Riaz-RZ/booknook-server">
+<img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
 ### 🛒 Bazar Dor
 
 A Bengali market-price tracking application that helps users explore the prices of everyday essentials in Bangladesh and monitor price changes.
@@ -140,42 +176,10 @@ A Bengali market-price tracking application that helps users explore the prices 
 </a>
 
 <a href="https://github.com/Riaz-RZ/Bazar-Dor">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💻 Dev Stack
-
-A modern technology discovery platform where developers can explore technologies and create their own development stack.
-
-**Key Features**
-
-* 🔎 Technology exploration
-* 🗂️ Category filtering
-* ⭐ Technology ratings
-* 🧰 Build Your Stack
-* ➕ Add technologies
-* 📱 Responsive interface
-
-**Built With**
-
-`React` `TypeScript` `Tailwind CSS` `Vite`
-
-<br/>
-
-<a href="https://ph-devstack.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Riaz-RZ/PH-Assignments-5-DevStack">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
-
-
+</table>
